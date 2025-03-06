@@ -80,3 +80,9 @@ $ git push origin master
 3-6. "✓" 커밋 클릭
 
 3-7. 화면 좌측 하단에 🔁 클릭 후 Push
+
+
+### Git 명령어
+
+## 1. git reset --soft HEAD~1
+- 커밋을 전단계로 돌려보낸다.
