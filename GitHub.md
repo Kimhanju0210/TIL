@@ -86,3 +86,6 @@ $ git push origin master
 
 ## 1. git reset --soft HEAD~1
 - 커밋을 전단계로 돌려보낸다.
+
+## 2.  git clone [레포지토리 주소]
+- 링크의 레포지토리를 해당 폴더에 클론을 만든다.
