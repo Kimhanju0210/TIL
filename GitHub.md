@@ -89,3 +89,6 @@ $ git push origin master
 
 ## 2.  git clone [레포지토리 주소]
 - 링크의 레포지토리를 해당 폴더에 클론을 만든다.
+
+## 3. git checkout [브랜치명]
+- 특정 브랜치로 이동하게 된다.
