@@ -92,3 +92,6 @@ $ git push origin master
 
 ## 3. git checkout [브랜치명]
 - 특정 브랜치로 이동하게 된다.
+
+## 4. git diff
+- 변경된 내용을 확인 가능하도록 만든다.
