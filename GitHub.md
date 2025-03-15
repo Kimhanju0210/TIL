@@ -95,3 +95,6 @@ $ git push origin master
 
 ## 4. git diff
 - 변경된 내용을 확인 가능하도록 만든다.
+
+## 5. git reset --hard HEAD~1
+- 최근 커밋을 취소하고 변경 사항도 삭제한다.
