@@ -98,3 +98,6 @@ $ git push origin master
 
 ## 5. git reset --hard HEAD~1
 - 최근 커밋을 취소하고 변경 사항도 삭제한다.
+
+## 6. git revert [커밋 해시]
+- 특정 커밋을 되돌리는 새로운 커밋 생성한다.
