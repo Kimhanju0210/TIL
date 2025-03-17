@@ -101,3 +101,6 @@ $ git push origin master
 
 ## 6. git revert [커밋 해시]
 - 특정 커밋을 되돌리는 새로운 커밋 생성한다.
+
+## 7. git fetch origin
+- origin에서 최신 변경 사항을 로컬 저장소로 가져온다.
