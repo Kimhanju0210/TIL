@@ -104,3 +104,6 @@ $ git push origin master
 
 ## 7. git fetch origin
 - origin에서 최신 변경 사항을 로컬 저장소로 가져온다.
+
+## 8. git stash
+- 변경된 사항을 임시저장한다.
