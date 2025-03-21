@@ -107,3 +107,6 @@ $ git push origin master
 
 ## 8. git stash
 - 변경된 사항을 임시저장한다.
+
+## 9. git stash pop
+- 임시로 저장된 변경 사항을 다시 적용시킨다.
