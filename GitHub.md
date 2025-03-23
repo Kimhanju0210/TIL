@@ -110,3 +110,6 @@ $ git push origin master
 
 ## 9. git stash pop
 - 임시로 저장된 변경 사항을 다시 적용시킨다.
+
+## 10. git reset --hard HEAD
+- 최근 커밋 이후 변경 사항을 모두 되돌린다.
