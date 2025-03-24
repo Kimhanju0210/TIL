@@ -113,3 +113,6 @@ $ git push origin master
 
 ## 10. git reset --hard HEAD
 - 최근 커밋 이후 변경 사항을 모두 되돌린다.
+
+## 11. git switch [브랜치명]
+- "git checkout" 대신 사용하는 새로운 방식으로, 브랜치 전환에 특화되었다.
